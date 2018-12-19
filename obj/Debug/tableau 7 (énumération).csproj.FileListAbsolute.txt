@@ -1,0 +1,6 @@
+C:\Users\Dell\source\repos\tableau 7 (énumération)\tableau 7 (énumération)\obj\Debug\tableau 7 (énumération).csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\tableau 7 (énumération)\tableau 7 (énumération)\bin\Debug\tableau 7 (énumération).exe.config
+C:\Users\Dell\source\repos\tableau 7 (énumération)\tableau 7 (énumération)\bin\Debug\tableau 7 (énumération).exe
+C:\Users\Dell\source\repos\tableau 7 (énumération)\tableau 7 (énumération)\bin\Debug\tableau 7 (énumération).pdb
+C:\Users\Dell\source\repos\tableau 7 (énumération)\tableau 7 (énumération)\obj\Debug\tableau 7 (énumération).exe
+C:\Users\Dell\source\repos\tableau 7 (énumération)\tableau 7 (énumération)\obj\Debug\tableau 7 (énumération).pdb
